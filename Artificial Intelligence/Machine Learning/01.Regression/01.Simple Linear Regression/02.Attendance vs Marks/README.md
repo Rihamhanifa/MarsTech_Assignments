@@ -1,12 +1,17 @@
-Key Finding
-Attendance alone may not strongly predict marks. 
-The linear regression model showed a weak relationship (R² ≈ 0.12) between attendance percentage and end-semester exam scores.
+# Attendance and Academic Performance Analysis
 
-Recommendations
-• Consider including additional academic factors (assignment scores, quiz performance, study hours) to improve predictive accuracy.
-• Explore alternative modeling approaches if a non-linear relationship exists.
+## Key Finding
+- Attendance alone may not strongly predict marks.  
+- The linear regression model showed a weak relationship (R² ≈ 0.12) between attendance percentage and end-semester exam scores.
 
-Technologies Used
-• Python, Pandas, Scikit-learn
+## Recommendations
+- Consider including additional academic factors (assignment scores, quiz performance, study hours) to improve predictive accuracy
+- Explore alternative modeling approaches if a non-linear relationship exists
 
-Note: Missing data was handled by removal; advanced imputation methods may yield better insights.
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+
+## Data Handling
+❗ Missing data was handled by removal; advanced imputation methods may yield better insights
