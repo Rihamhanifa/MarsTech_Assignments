@@ -2,7 +2,7 @@
 
 ## Key Finding
 - Attendance alone may not strongly predict marks.  
-- The linear regression model showed a weak relationship (R² ≈ 0.12) between attendance percentage and end-semester exam scores.
+- The linear regression model showed a weak relationship (R² = 0.01) between attendance percentage and end-semester exam scores.
 
 ## Recommendations
 - Consider including additional academic factors (assignment scores, quiz performance, study hours) to improve predictive accuracy
