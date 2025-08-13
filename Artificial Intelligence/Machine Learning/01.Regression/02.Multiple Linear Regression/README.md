@@ -1,4 +1,4 @@
-# Multiple Linear Regression Practice Repository
+# Multiple Linear Regression Practice 
 
 ![Education](https://img.shields.io/badge/Purpose-Education_only-blueviolet)
 ![Status](https://img.shields.io/badge/Status-Practice_Work-lightgrey)
