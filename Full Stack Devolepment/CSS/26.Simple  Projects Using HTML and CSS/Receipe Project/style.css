@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+ul,
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+
+
+
+li {
+    color: gray;
+
+}
+
+li:hover {
+    color: white;
+    cursor: pointer;
+}
+
+
+
+.box {
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    margin-top: 20px;
+}
+
+
+
+img{
+    width: 220px;
+    height: 220px;
+}
+.products{
+    text-align: center;
+}
+
+.box button{
+    margin-top: 10px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+ 
+
+.contact{
+    margin-top: 80px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact h3 ,table{
+    margin-bottom: 10px;
+}
+
+.contact button {
+    margin-top: 10px;
+    width: 30%;
+    background-color: yellow;
+    color: black;
+}
+
